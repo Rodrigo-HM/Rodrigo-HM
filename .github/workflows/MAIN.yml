@@ -18,6 +18,10 @@ jobs:
           github_user: Rodrigo-HM
           svg_out_path: output/github-contribution-grid-snake.svg
 
+      - name: List output folder
+        run: |
+          ls -l output
+
       - name: Commit & Push generated Snake SVG
         run: |
           git config --global user.name "GitHub Actions"
@@ -25,3 +29,4 @@ jobs:
           git add output/github-contribution-grid-snake.svg
           git commit -m "Generate Snake Game SVG"
           git push
+
