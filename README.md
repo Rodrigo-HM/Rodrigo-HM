@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, soy Rodrigo 👋
+<img src="https://media.istockphoto.com/id/1479525513/es/vector/desarrollo-de-software-banner-programaci%C3%B3n-sitio-web-y-app.jpg?s=170667a&w=0&k=20&c=pRP3VR4jxVynFCNTiJoHKsuij-ofie_PaQRRcVUbAxY=">
 <!--
 **Rodrigo-HM/Rodrigo-HM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
