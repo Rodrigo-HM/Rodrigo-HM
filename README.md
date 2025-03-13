@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GIT!;DAM+Student;Backend+Projects;Passionate+about+coding;Always+learning+new+things;"></a>
 </p>
 
-
-
 <br>
 
 
@@ -26,8 +24,15 @@
 <br>
 
 
+## GitHub Stats
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+| Contribution Streak | Most Used Languages |
+|:----------------------:|:---------------------:|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-HM&theme=tokyonight_duo) | &nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-HM&layout=compact&theme=radical) |
+
+
+
+##  Connect with me
 <p align="center">
 	<a href="mailto:hernandezmartinrodri@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Rodrigo-HM"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
